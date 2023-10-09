@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Use React useState and conditional rendering to create a small Steps-component
+<img width="970" alt="Screen Shot 2023-10-09 at 12 11 08 AM" src="https://github.com/JaimeChen12138/Steps-Component/assets/91461448/e4b196e0-a140-4fcc-b684-919b60167781">
+<img width="938" alt="Screen Shot 2023-10-09 at 12 11 16 AM" src="https://github.com/JaimeChen12138/Steps-Component/assets/91461448/bdec6d45-a8a5-4965-a034-f3931855fa03">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
